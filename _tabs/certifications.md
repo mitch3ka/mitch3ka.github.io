@@ -38,7 +38,7 @@ order: 5
   
  <div class="cert-item">
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-I47F4NLRKA.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/Comptia-pentest.png" alt="Comptia Pentest+ Certificate">
+      <img src="/assets/img/Comptia-pentest+.png" alt="Comptia Pentest+ Certificate">
       <p><strong>Comptia-pentest+</strong></p>
     
   </div>
