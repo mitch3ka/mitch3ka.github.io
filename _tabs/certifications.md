@@ -15,12 +15,34 @@ order: 5
   </div>
 
   <div class="cert-item">
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-55JZ66WGXT.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
+      <img src="/assets/img/redteam.png" alt="Red Team Certificate">
+      <p><strong>Red Teaming</strong></p>
+    
+  </div>
+
+   <div class="cert-item">
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VNE0JXUVTG.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
+      <img src="/assets/img/web-application-pentest.png" alt="Web-Application-pentest">
+      <p><strong>Web-Application-pentest</strong></p>
+    
+  </div>
+  
+  <div class="cert-item">
     <a href="https://www.credly.com/badges/3c0e83d7-5d13-4e9e-ba5d-64eb99340565/public_url" target="_blank" rel="noopener noreferrer">View Certificate</a>
       <img src="/assets/img/netdef.png" alt="Cisco Network Defense Certificate">
       <p><strong>Cisco Network Defense</strong></p>
     
   </div>
 
+  
+ <div class="cert-item">
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-I47F4NLRKA.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
+      <img src="/assets/img/Comptia-pentest.png" alt="Comptia Pentest+ Certificate">
+      <p><strong>Comptia-pentest+</strong></p>
+    
+  </div>
+  
   <div class="cert-item">
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CY5B85PKGP.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
       <img src="/assets/img/JPT.png" alt="Jr Penetration Tester">
