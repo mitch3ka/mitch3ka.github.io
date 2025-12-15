@@ -9,6 +9,12 @@ order: 5
 <div class="cert-grid">
 
   <div class="cert-item">
+      <img src="/assets/img/moringa.png" alt="Cybersecurity Certificate">
+      <p><strong>Cybersecurity Bootcamp Course</strong></p>
+    
+  </div>
+
+  <div class="cert-item">
     <a href="https://www.credly.com/badges/3c0e83d7-5d13-4e9e-ba5d-64eb99340565/public_url" target="_blank" rel="noopener noreferrer">View Certificate</a>
       <img src="/assets/img/netdef.png" alt="Cisco Network Defense Certificate">
       <p><strong>Cisco Network Defense</strong></p>
