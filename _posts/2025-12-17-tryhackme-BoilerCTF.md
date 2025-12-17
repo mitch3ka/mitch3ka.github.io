@@ -96,7 +96,7 @@ OTliMDY2MGNkOTVhZGVhMzI3YzU0MTgyYmFhNTE1ODQK
 $ echo "OTliMDY2MGNkOTVhZGVhMzI3YzU0MTgyYmFhNTE1ODQK" | base64 -d
 99b0660cd95adea327c54182baa51584
 ```
-The resultng data format looks like a hash so I use an online tool to decode it `crackstation` and we get what could be a password but for what?? we don't know so onto the next,further enumeration.
+The resulting data format looks like a hash so I use an online tool to decode it `crackstation` and we get what could be a password but for what?? we don't know so onto the next,further enumeration.
 
 ![crackstation index](crackstation.webp){: width="1200" height="600" }
 
