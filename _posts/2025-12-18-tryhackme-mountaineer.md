@@ -13,7 +13,7 @@ This room started by discovering a **WordPress** instance and identifying a plug
 
 Next, I found a **KeePass** database belonging to the user we had information about. By utilizing this information to create a wordlist, I successfully uncovered the master password for the **KeePass** database. Inside, I found credentials for another user and switched to that user. Checking the user's **bash history**, I found the password for the **root** user, which allowed me to complete the room.
 
-[![tryhackme card index](mountaineer_card.webp){: width="300" height="300" }
+![tryhackme card index](mountaineer_card.webp){: width="300" height="300" }
 
 
 ## Initial Enumeration
