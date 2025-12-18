@@ -11,7 +11,7 @@ image:
   
  **BoilerCTF** was a ctf room designed to test on an OS command injection vulnerability that exists in `sar2html` via the plot parameter in index.php.The web application fails to sanitize user supplied input before using it in a system level context.Exploiting this using `EDB-ID 47204` we achieve arbitrary command execution to get credentials for a `ssh` login and later we escalate our privileges using a `find` SUID bit to gain root.
 
- ![boiler card](boiler2.webp){: width="600" height="150" }
+ ![boiler card](boiler2.webp){: width="300" height="300" }
  
 ## Initial Enumeration
 
