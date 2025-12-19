@@ -86,14 +86,14 @@ I resorted to use `UNION` to find columns returned to us on the web app.
 
 After numerous failed attempts, `OSINT` was my next go to where I found a query that will find the name of the current database.
 
-```console
+```
 +UNION+SELECT+1,DATABASE(),3,4,5
 ```
 ![burp index](burp_payload5.webp){: width="1200" height="800" }
 
 The room has a question requesting the version of the server so I use this payload.
 
-```console
+```
 +UNION+SELECT+1,version(),3,4,5
 ```
 
