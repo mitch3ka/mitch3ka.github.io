@@ -6,7 +6,7 @@ tags: [web, sql injection, sql injection union]
 render_with_liquid: false
 media_subpath: /images/tryhackme-JurassicPark/
 image:
-  path: jurassic.webp
+  path: jurassssiic.webp
 ---
 This room tested a `Union-Based SQL Injection` vulnerability that was identified in the `/item.php` endpoint of the web application,allowing extract of database contents including user credentials that directly led to `ssh` access.
   
