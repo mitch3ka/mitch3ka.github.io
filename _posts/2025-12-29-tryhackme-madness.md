@@ -52,7 +52,7 @@ Using wget to download the image I do some analysing and since it is broken I pe
 
 ![header index](head-thm.webp){: width="1200" height="600" }
 
-The image header for this is `PNG` instead of `JPG` as the extension suggests.
+The image header for this is `PNG` instead of `JPG` as the file extension suggests.
 I use `radare2` to change the header.
 
 ```console
