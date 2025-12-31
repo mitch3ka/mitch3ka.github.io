@@ -140,7 +140,7 @@ The `username`,`domain` and `NTProofStr` are found in the packet capture while `
 We also need the `Encrypted Session Key` which is in the packet capture file aswell.
 A python script is provided to calculate the `Key Exchange Key` and decrypt the `Encrypted Session Key` but I make an adjustment to run on `python3` and also a functionality to accept `NTLM hash` as an argument.
 
-```random-session-key.py
+```console
 import hashlib
 import hmac
 import argparse
