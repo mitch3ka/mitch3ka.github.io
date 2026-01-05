@@ -10,7 +10,7 @@ image:
 ---
 Focused on `IPSec/IKE` recon and `PSK` cracking which gave an ssh passphrase that we used to gain initial foothold.A hostname -based sudo bypass enabled us to escalate our privileges to root.
 
-![card index](room-card.webp){: width="800" height="600" }
+![card index](room-card.webp){: width="300" height="300" }
 
 ## Reconnaissance
 The TCP scan revealed only one port was open 
