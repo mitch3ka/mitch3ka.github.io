@@ -9,6 +9,7 @@ image:
   path: cyberlenss.webp
 ---
 Exploiting a command injection vulnerability in `Apache Tika` gaining an initial foothold and abusing `AlwaysInstallElevated` to escalate privileges to Administrator.
+
 ![card index](cyberlens-card.webp){: width="300" height="300" }
 
 ## Initial Enumeration
