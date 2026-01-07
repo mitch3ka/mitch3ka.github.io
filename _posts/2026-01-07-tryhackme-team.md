@@ -35,9 +35,9 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
 The results show only 3 open ports
--**Port 21 FTP**
--**Port 22 SSH**
--**Port 80 Apache httpd**
+- **Port 21 FTP**
+- **Port 22 SSH**
+- **Port 80 Apache httpd**
 
 First we try the ftp port anonymous sign in to search for files but in vain so we might have enumarate for  valid credentials.
 
