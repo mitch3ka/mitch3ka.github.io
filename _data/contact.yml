@@ -24,7 +24,7 @@
   url:  'https://www.linkedin.com/in/mitchelle-wekesa/'                  # Fill with your Linkedin homepage
 #
 - type: tryhackme
-  icon: 'fas fa-cloud'
+  icon: 'assets/img/favicon.ico'
   url:  'https://tryhackme.com/p/IamSithLord'                  # Fill with your stackoverflow homepage
 #
 # - type: bluesky
