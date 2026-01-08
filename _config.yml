@@ -31,6 +31,8 @@ github:
 
 linkedin:
   username: mitchelle-wekesa # change to your linkedin username
+tryhackme:
+  username: IamSithLord
 
 social:
   # Change to your full name.
@@ -42,7 +44,7 @@ social:
     #- https://twitter.com/username # change to your Twitter homepage
     - https://github.com/mitch3ka # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://tryhackme.com/p/IamSithLord
     - https://www.linkedin.com/in/mitchelle-wekesa
 
 # Site Verification Settings
