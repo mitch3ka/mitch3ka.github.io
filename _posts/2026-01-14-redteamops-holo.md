@@ -290,7 +290,7 @@ Visiting `10.200.65.31` we get a webserver which is a login form.
 ![web 31 index](webserver_10-200-65-31.webp){: width="800" height="600" }
 
 Using the credentials we found previously to login ,admin returns a blank page but the user gurag returns an error feedback
-![gurag index](initial_gurag_login.php.webp){: width="800" height="600" }
+![gurag index](initial_gurag_login.webp){: width="800" height="600" }
 
 Resorting to **Forgot password** we notice something off
 
