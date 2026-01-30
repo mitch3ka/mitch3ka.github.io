@@ -41,6 +41,7 @@ Kenya's financial services sector leads Africa in digital innovation, with mobil
 KCB Bank Group (Kenya's largest commercial bank by assets: KES 1.96 trillion/$15.2 billion, serving 30+ million customers across seven East African countries) executed a bold transformation strategy in 2025 that fundamentally repositioned the institution from traditional credit provider to integrated financial services platform. This case study analyzes the cybersecurity implications of that transformation.
 
 **Timeline of Strategic Transactions (2025-2026)**
+
 | Date         | Event                                              | Significance                                                                                                                                       |
 |--------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | March 2025   | Riverbank Solutions acquisition announced          | 75% stake for $15.4M secures backend payment infrastructure, agency banking platform, SME business tools                                           |
