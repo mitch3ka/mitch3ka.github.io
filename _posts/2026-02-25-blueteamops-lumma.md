@@ -50,7 +50,7 @@ Analysis of the `http` path on **Brim** unravels more information.Using the dest
 
 Looking up the domain on `VirusTotal` we find it has a high detection rate and is a known malicious Command & Control server.
 
-![virustotal index](whitepepper-vt.webp){: width="700" height="500"}
+![virustotal index](whitepper-vt.webp){: width="700" height="500"}
 
 ![virustotal2 index](whitepepper.webp){: width="700" height="500" }
 
@@ -68,7 +68,7 @@ Despite the high network activity,`files` path returned zero entries for the tim
 
 Based on publicly available threat intelligence from `MITRE ATT&CK FRAMEWORK` and looking at our `Indicators of Compromise` we have enough to make a decision.
 
-![threat index](mitrefilelessex.webp){: width="700" height="500" }
+![threat index](mitre-filelessex.webp){: width="700" height="500" }
 
 ![threat2 index](mitre-lumma.webp){: width="700" height="500" }
 
