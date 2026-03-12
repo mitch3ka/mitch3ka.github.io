@@ -1,7 +1,7 @@
 ---
 title: "Architecting a threat hunting lab: Security Onion + Caldera"
 author: mitcheka
-categories: [BlueTeamOps] [PurpleTeamOps] 
+categories: [BlueTeamOps,PurpleTeamOps] 
 tags: [threat hunting, incident response, command & control, windows, SOC, detection engineering]
 render_with_liquid: false
 media_subpath: /images/sec-caldera/
