@@ -21,6 +21,13 @@ order: 5
     
   </div>
 
+  <div class="cert-item">
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MXV1PARP3T.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
+      <img src="/assets/img/SOC-2.png" alt="SOC">
+      <p><strong>SOC Level 2</strong></p>
+
+  </div>
+
    <div class="cert-item">
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VNE0JXUVTG.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
       <img src="/assets/img/web-application-pentest.png" alt="Web-Application-pentest">
@@ -74,13 +81,6 @@ order: 5
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RSQZIQEBHN.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
       <img src="/assets/img/cybersecurity101.png" alt="Networking">
       <p><strong>Cyber Security 101</strong></p>
-
-  </div>
-
-   <div class="cert-item">
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MXV1PARP3T.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/SOC-2.png" alt="SOC">
-      <p><strong>SOC Level 2</strong></p>
 
   </div>
 
