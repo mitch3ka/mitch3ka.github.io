@@ -77,6 +77,13 @@ order: 5
 
   </div>
 
+   <div class="cert-item">
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MXV1PARP3T.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
+      <img src="/assets/img/SOC-2.png" alt="SOC">
+      <p><strong>SOC Level 2</strong></p>
+
+  </div>
+
 </div>
 
 <style>
