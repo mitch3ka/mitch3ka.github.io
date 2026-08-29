@@ -15,73 +15,17 @@ order: 5
   </div>
 
   <div class="cert-item">
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-55JZ66WGXT.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/redteam.png" alt="Red Team Certificate">
-      <p><strong>Red Teaming</strong></p>
+    <a href="https://www.credly.com/earner/earned/badge/fb9ae0b3-8b42-4749-930c-5d5b2fb92826" target="_blank" rel="noopener noreferrer">View Certificate</a>
+      <img src="/assets/img/comptia-cysa+.png" alt="CompTIA Certificate">
+      <p><strong>CompTIA CySA+</strong></p>
     
   </div>
 
-  <div class="cert-item">
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MXV1PARP3T.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/SOC-2.png" alt="SOC">
-      <p><strong>SOC Level 2</strong></p>
-
-  </div>
-
-   <div class="cert-item">
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VNE0JXUVTG.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/web-application-pentest.png" alt="Web-Application-pentest">
-      <p><strong>Web-Application-pentest</strong></p>
-    
-  </div>
-  
   <div class="cert-item">
     <a href="https://www.credly.com/badges/3c0e83d7-5d13-4e9e-ba5d-64eb99340565/public_url" target="_blank" rel="noopener noreferrer">View Certificate</a>
       <img src="/assets/img/netdef.png" alt="Cisco Network Defense Certificate">
       <p><strong>Cisco Network Defense</strong></p>
     
-  </div>
-
-  
- <div class="cert-item">
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-I47F4NLRKA.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/Comptia-pentest+.png" alt="Comptia Pentest+ Certificate">
-      <p><strong>Comptia-pentest+</strong></p>
-    
-  </div>
-  
-  <div class="cert-item">
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CY5B85PKGP.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/JPT.png" alt="Jr Penetration Tester">
-      <p><strong>Jr Penetration Tester</strong></p>
-    
-  </div>
-
-   <div class="cert-item">
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-8LEUYSGPQW.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/devsecops.png" alt="DevSecOps">
-      <p><strong>DevSecOps</strong></p>
-
-  </div>
-
-   <div class="cert-item">
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-URMETJYVJ2.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/securityeng.png" alt="Security Engineer">
-      <p><strong>Security Engineer</strong></p>
-
-  </div>
-   <div class="cert-item">
-    <a href="https://www.credly.com/badges/74095f47-348c-4fbb-8d55-20d4c7939990/public_url" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/netbasics.png" alt="Networking">
-      <p><strong>Networking Basics</strong></p>
-
-  </div>
-
-   <div class="cert-item">
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RSQZIQEBHN.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
-      <img src="/assets/img/cybersecurity101.png" alt="Networking">
-      <p><strong>Cyber Security 101</strong></p>
-
   </div>
 
 </div>
