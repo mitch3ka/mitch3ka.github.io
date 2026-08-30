@@ -15,6 +15,7 @@ Horizon simulates investigating a breach involving email compromise,phishing and
 
 ## Objective 1
 **The attacker was able to find the correct pair of credentials for the email service.What were they?**
+
 From the beginning we are given two files to analyze `powershell.DMP` and `traffic.pcapng`
 Using wireshark to scan the given pcapng file I use a filter `pop || smtp` to find any brute force happening.Noticing some base64 data I follow the TCP stream which reveals AUTH login details that upon decoding give us our answer.
 
@@ -26,18 +27,21 @@ Using wireshark to scan the given pcapng file I use a filter `pop || smtp` to fi
 
 ## Objective 2
 **What was the body of the email that was sent by the attacker**
+
 Inspecting the same packet we got the email and password we get the contents of the email.
 
 ![email index](email-body.webp){: width="800" height="600" }
 
 ## Objective 3
 **What command initiated the malicious script download**
+
 Again we use the same result packet following the TCP stream and scrolling down more we see another base64 encoded data.Decoding this data we get the command at the end of the script.The malicious file downloaded is `radius.p1`
 
 ![script index](mal-script-command.webp){: width="800" height="600" }
 
 ## Objective 4
 **What is the initial AES key that is used for decrypting the C2 traffic**
+
 To find the AES key we need to analyze the malicious script `radius.ps1`.Inside the script a base64 payload was running in memory.
 ![radius index](ps-script.webp){: width="800" height="600" }
 
@@ -58,6 +62,7 @@ The binary is a `.NET` assembly so I use `dnSpy` to decompile it where we locate
 
 ## Objective 5
 **What is the Administrator NTLM hash that the attacker found**
+
 Looking back at the virustotal results,the threat is related to `covenant` and after a little research I come across the `CovenantDecryptor` which is designed to decrypt the communication data of the covenant traffic.
 The following section from the CovenantDecryptor repository shows how the covenant communication is setup.
 
@@ -124,6 +129,7 @@ With the sessionkey we are now able to decrypt the covenant communication which 
 
 ## Objective 6
 **What is the flag**
+
 From our previous communication decryption,we noticed that message 972 contains a big chunk of base64 encoded data.Using cyberchef to decode it we see it is actually an image by the magic bytes.Using the Render recipe it is a capture of the desktop which also contains the final flag at the bottom.
 
 ![flag index](final-flag.webp){: width="800" height="600" }
